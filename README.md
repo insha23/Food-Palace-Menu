@@ -12,3 +12,9 @@ with a clean, card-based UI.
 ## Tech Stack
 - HTML5
 - CSS3
+
+## 📸 Project Preview
+
+![Food Palace Menu](assets/images/preview.png)
+
+
